@@ -1,5 +1,4 @@
 # DSRJNMF
-**Deep Self-reconstruction Driven Joint Nonnegative Matrix Factorization Model**
 
 This project proposed a deep-self reconstructed joint nonnegative matrix factorization (DSRJNMF) model to identify the imaging genetic association of complex diseases. 
 
